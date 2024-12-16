@@ -3,4 +3,5 @@ pandas
 streamlit
 python-pptx
 openai == 0.28
+openpyxl
 python-dotenv
