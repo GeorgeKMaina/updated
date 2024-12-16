@@ -4,3 +4,4 @@ streamlit
 python-pptx
 openai == 0.28
 python-dotenv
+pip install openpyxl
